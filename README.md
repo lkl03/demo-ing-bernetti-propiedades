@@ -1,2 +1,7 @@
-# demo-ing-bernetti-propiedades
-Demo web para Ing. BERNETTI Propiedades — diseñada por eterlab.
+# Ing. BERNETTI Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
